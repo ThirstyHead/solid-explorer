@@ -1,4 +1,4 @@
-# solid-explorer
-Exploring Inrupt's Solid account
+# solid-my-demo-app
+Exploring Inrupt's Solid tutorial
 
-Note: I am https://pod.inrupt.com/scottdavis/profile/card#me
+[https://docs.inrupt.com/developer-tools/javascript/client-libraries/tutorial/getting-started/](https://docs.inrupt.com/developer-tools/javascript/client-libraries/tutorial/getting-started/)
